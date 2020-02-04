@@ -1,0 +1,1 @@
+docker pull snan/suresh_2020:latest
